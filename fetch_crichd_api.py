@@ -20,7 +20,7 @@ SOURCE_URL = os.getenv(
 "CRICHD_SOURCE_URL",
 "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/main/api.json",
 )
-OUTPUT_FILE = os.getenv("OUTPUT_FILE", "live_stream/auto_fetch_crichd_api.json")
+OUTPUT_FILE = os.getenv("OUTPUT_FILE", "crichd-auto-fetch/auto_fetch_crichd_api.json")
 THUMBNAIL_URL = os.getenv(
 "THUMBNAIL_URL",
 "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming.png",
