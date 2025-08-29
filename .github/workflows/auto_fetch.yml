@@ -24,7 +24,7 @@ jobs:
 
       - name: Run fetch script
         run: |
-          python3 scripts/fetch_crichd_api.py
+          python3 fetch_crichd_api.py
 
       - name: Commit & push if changed
         run: |
