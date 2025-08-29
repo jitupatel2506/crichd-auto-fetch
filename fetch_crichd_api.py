@@ -38,10 +38,10 @@ STABLE_CHANNEL_NUMBERS = True # set to False for new random numbers on each run
 
 
 def stable_channel_number(key: str) -> int:
-"""Derive a stable 1..9999 number from a string key (looks random but is repeatable)."""
-h = hashlib.sha256(key.encode("utf-8")).hexdigest()
-n = int(h[:8], 16) % 9999 + 1 # 1..9999
-return n
+    """Derive a stable 1..9999 number from a string key (looks random but is repeatable)."""
+    h = hashlib.sha256(key.encode("utf-8")).hexdigest()
+    n = int(h[:8], 16) % 9999 + 1  # 1..9999
+    return n
 
 
 
