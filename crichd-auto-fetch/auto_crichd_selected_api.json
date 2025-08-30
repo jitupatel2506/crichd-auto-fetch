@@ -1,0 +1,35 @@
+[
+  {
+    "channelNumber": 5535,
+    "platform": "CricHD",
+    "linkType": "app",
+    "channelName": "Aus vs India",
+    "subText": "Live Streaming Now",
+    "startTime": "",
+    "ownerInfo": "Stream provided by public source",
+    "channelUrl": "https://d5.merichunidya.com:1686/hls/star1in.m3u8?md5=RwNpPFqpdnMqc3s8oN2VUQ&expires=1756552922",
+    "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming.png"
+  },
+  {
+    "channelNumber": 6957,
+    "platform": "CricHD",
+    "linkType": "app",
+    "channelName": "Kerala Premier League",
+    "subText": "Live Streaming Now",
+    "startTime": "",
+    "ownerInfo": "Stream provided by public source",
+    "channelUrl": "https://d1.merichunidya.com:1686/hls/ptvpk.m3u8?md5=QJU14AmKoCto2WY5_VID2g&expires=1756552922",
+    "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming.png"
+  },
+  {
+    "channelNumber": 1389,
+    "platform": "CricHD",
+    "linkType": "app",
+    "channelName": "UP T20",
+    "subText": "Live Streaming Now",
+    "startTime": "",
+    "ownerInfo": "Stream provided by public source",
+    "channelUrl": "https://d7.merichunidya.com:1686/hls/willowusa.m3u8?md5=EUSAuA9TWry5utHIBHo8pw&expires=1756552922",
+    "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming.png"
+  }
+]
