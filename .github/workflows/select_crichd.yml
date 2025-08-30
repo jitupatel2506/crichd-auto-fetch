@@ -1,0 +1,35 @@
+name: Generate Selected CricHD JSON
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # हर 10 मिनट auto run
+  workflow_dispatch:        # Manual Run option
+
+permissions:
+  contents: write
+
+jobs:
+  update-selected-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Script
+        run: python select_crichd_channels.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add crichd-auto-fetch/auto_crichd_selected_api.json
+          git commit -m "Auto-update selected CricHD JSON" || echo "No changes"
+          git push
