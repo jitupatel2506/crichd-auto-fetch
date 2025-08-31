@@ -25,7 +25,7 @@ REPLACEMENT_NAMES = [
     "CPL 2025(Alternative)",
     "SL Tour of ZIM 2025",
     "SL Tour of ZIM 2025(Alternative)",
-    "UAE T20 TRI Series",
+    "100 FINAL",
     "La - LiGA 2025-26"
 ]
 
