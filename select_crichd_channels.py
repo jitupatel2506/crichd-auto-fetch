@@ -14,8 +14,8 @@ SELECTED_CHANNELS = [
     "Star Sports 1",
     "Willow HD",
     "Willow HD",
-  #  "Sky Sports Cricket",
-    "LaLiGA"
+    "Sky Sports Cricket",
+  #  "LaLiGA"
     
 ]
 
@@ -24,9 +24,9 @@ REPLACEMENT_NAMES = [
     "CPL 2025",
     "CPL 2025(Alternative)",
     "UAE T20 TRI Series",
-    "100 Mens",
- #   "SL Tour of ZIM 2025",
-    "La - LiGA 2025-26"
+    "100 Final",
+    "SL Tour of ZIM 2025",
+  #  "La - LiGA 2025-26"
 ]
 
 def main():
