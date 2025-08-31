@@ -10,7 +10,7 @@ OUTPUT_FILE = "crichd-auto-fetch/auto_crichd_selected_api.json"
 
 # ✅ Array 1: channelName to select from source
 SELECTED_CHANNELS = [
-    "TNT 3",
+    "TNT 4",
     "Star Sports 1",
     "Willow HD",
     "Willow HD",
