@@ -9,5 +9,16 @@
     "ownerInfo": "Stream provided by public source",
     "channelUrl": "https://d7.merichunidya.com:1686/hls/bbtespn.m3u8?md5=sEFiFkPs-dPgFjh1e2U9tw&expires=1756700302",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming.png"
+  },
+  {
+    "channelNumber": 1389,
+    "platform": "CricHD",
+    "linkType": "app",
+    "channelName": "BAN vs NED",
+    "subText": "Live Streaming Now",
+    "startTime": "",
+    "ownerInfo": "Stream provided by public source",
+    "channelUrl": "https://d1.merichunidya.com:1686/hls/willowusa.m3u8?md5=FMMJxiAqLrSm4T5iNWpsGA&expires=1756700300",
+    "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming.png"
   }
 ]
