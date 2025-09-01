@@ -11,22 +11,22 @@ OUTPUT_FILE = "crichd-auto-fetch/auto_crichd_selected_api.json"
 # ✅ Array 1: channelName to select from source
 SELECTED_CHANNELS = [
     "TNT 4",
-    "Star Sports 1",
-    "Willow HD",
-    "Willow HD",
-    "Sky Sports Cricket",
-    "LaLiGA"
+    #"Star Sports 1",
+    #"Willow HD",
+    #"Willow HD",
+    #"Sky Sports Cricket",
+    #"LaLiGA"
     
 ]
 
 # ✅ Array 2: replacement names (same order as above)
 REPLACEMENT_NAMES = [
     "CPL 2025",
-    "CPL 2025(Alternative)",
-    "SL Tour of ZIM 2025",
-    "SL Tour of ZIM 2025(Alternative)",
-    "100 FINAL",
-    "La - LiGA 2025-26"
+    #"CPL 2025(Alternative)",
+    #"SL Tour of ZIM 2025",
+    #"SL Tour of ZIM 2025(Alternative)",
+    #"100 FINAL",
+    #"La - LiGA 2025-26"
 ]
 
 def main():
