@@ -22,7 +22,7 @@ SOURCE_URL = os.getenv(
 OUTPUT_FILE = os.getenv("OUTPUT_FILE", "crichd-auto-fetch/auto_fetch_crichd_api.json")
 THUMBNAIL_URL = os.getenv(
     "THUMBNAIL_URL",
-    "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming.png",
+    "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png",
 )
 PLATFORM = "CricHD"
 LINK_TYPE = "app"
