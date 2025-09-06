@@ -7,7 +7,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d10.merichunidya.com:1686/hls/star1in.m3u8?md5=M_dBbWpwITZsC-saHTiqHA&expires=1757161332",
+    "channelUrl": "https://d1.merichunidya.com:1686/hls/star1in.m3u8?md5=hIMBUo6WWVK1F2eQzshuDA&expires=1757162413",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -18,7 +18,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d6.merichunidya.com:1686/hls/starhindi.m3u8?md5=docEKAokFQt-nHu-vScJig&expires=1757161332",
+    "channelUrl": "https://d2.merichunidya.com:1686/hls/starhindi.m3u8?md5=YXxLTryjhLrdG3WjKHeshw&expires=1757162413",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -29,7 +29,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d10.merichunidya.com:1686/hls/ptvpk.m3u8?md5=fMMoPJb97zPg17bhj6YRvg&expires=1757161332",
+    "channelUrl": "https://d10.merichunidya.com:1686/hls/ptvpk.m3u8?md5=CI224N-6UB1W9ywHkR3vMQ&expires=1757162413",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -40,7 +40,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d5.merichunidya.com:1686/hls/willowusa.m3u8?md5=tvQf25qNzHkdxerjtqxS5w&expires=1757161332",
+    "channelUrl": "https://d8.merichunidya.com:1686/hls/willowusa.m3u8?md5=Vfh-CS2V_ZP13KG5xAGyEQ&expires=1757162414",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -51,7 +51,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d7.merichunidya.com:1686/hls/willowextra.m3u8?md5=DvZQFJQTw4MELVpjNjH77Q&expires=1757161332",
+    "channelUrl": "https://d9.merichunidya.com:1686/hls/willowextra.m3u8?md5=0OIr7wrGg-wBXmivhFtfWg&expires=1757162414",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -62,7 +62,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d10.merichunidya.com:1686/hls/tenspk.m3u8?md5=-l9z_f8MifDGHq1XoyxtRw&expires=1757161333",
+    "channelUrl": "https://d10.merichunidya.com:1686/hls/tenspk.m3u8?md5=a7oWKeZ4p9uT0l7Hemhr1Q&expires=1757162414",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -73,7 +73,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d4.merichunidya.com:1686/hls/asportshd.m3u8?md5=mYuU-q2SIMs46_oDa0QqjA&expires=1757161333",
+    "channelUrl": "https://d6.merichunidya.com:1686/hls/asportshd.m3u8?md5=ks8MaHGCG060bI6qK8_Pgg&expires=1757162414",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -84,7 +84,18 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d1.merichunidya.com:1686/hls/skyscric.m3u8?md5=PYRGiqpDIanVXgTb6VEspg&expires=1757161333",
+    "channelUrl": "https://d8.merichunidya.com:1686/hls/skyscric.m3u8?md5=22NU6Ah7OBhUy8UxXVk29Q&expires=1757162414",
+    "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
+  },
+  {
+    "channelNumber": 3762,
+    "platform": "CricHD",
+    "linkType": "app",
+    "channelName": "Sky Sports Main Event",
+    "subText": "Live Streaming Now",
+    "startTime": "",
+    "ownerInfo": "Stream provided by public source",
+    "channelUrl": "https://d6.merichunidya.com:1686/hls/skysme.m3u8?md5=DTHiDPpfuo4qTbOJBK2szA&expires=1757162415",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -95,7 +106,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d6.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=X_uns4KuIwQBpSjnq4xn_Q&expires=1757161333",
+    "channelUrl": "https://d1.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=QqJ-wHqeRh3MmyBNfQIsOA&expires=1757162415",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -106,7 +117,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d2.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=yuFK50j868DvXtd7KOYrzw&expires=1757161334",
+    "channelUrl": "https://d9.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=houhlXRRTfpjDIUHVU-Pqg&expires=1757162415",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -117,7 +128,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d3.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=d4cru0mokdC_F-x_xF9Viw&expires=1757161334",
+    "channelUrl": "https://d1.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=646TuVfEXuRNOSegJEhM9w&expires=1757162415",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -128,7 +139,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d4.merichunidya.com:1686/hls/bbtespn.m3u8?md5=nafEcPrLQfoAGKTB5Nw63w&expires=1757161334",
+    "channelUrl": "https://d5.merichunidya.com:1686/hls/bbtespn.m3u8?md5=B9yeunHGNSsLrLXOuEmPwQ&expires=1757162415",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -139,7 +150,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d8.merichunidya.com:1686/hls/sky1nz.m3u8?md5=J2nIac_P8esShETqM4qsIQ&expires=1757161334",
+    "channelUrl": "https://d1.merichunidya.com:1686/hls/sky1nz.m3u8?md5=NA2q0PmH_U1dR7HEnWyw1Q&expires=1757162415",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -150,7 +161,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d1.merichunidya.com:1686/hls/sky2nz.m3u8?md5=ghDgfW_uZWUqjVJSMHMJ4Q&expires=1757161334",
+    "channelUrl": "https://d10.merichunidya.com:1686/hls/sky2nz.m3u8?md5=FxpKOfgLhrmY-ytwux9ngg&expires=1757162416",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -161,7 +172,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d8.merichunidya.com:1686/hls/sky3nz.m3u8?md5=Sw1tG8H7lyHtlbe2wLz_jw&expires=1757161334",
+    "channelUrl": "https://d1.merichunidya.com:1686/hls/sky3nz.m3u8?md5=DFos4-iJUvxGhZ_nBH-3KA&expires=1757162416",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -172,7 +183,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d3.merichunidya.com:1686/hls/sky4nz.m3u8?md5=L7JhGm_knt3s4Xa2TkrWuQ&expires=1757161334",
+    "channelUrl": "https://d3.merichunidya.com:1686/hls/sky4nz.m3u8?md5=QFi-V77kgTv55ckUIFaq1w&expires=1757162416",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -183,7 +194,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d4.merichunidya.com:1686/hls/sky5nz.m3u8?md5=kzDuLqCH_fExffvXRZtDMw&expires=1757161335",
+    "channelUrl": "https://d4.merichunidya.com:1686/hls/sky5nz.m3u8?md5=BDlpuSZO_HkEZbOIONWo8A&expires=1757162416",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -194,7 +205,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d9.merichunidya.com:1686/hls/sky6nz.m3u8?md5=PLoh0mINIPw1gdPWLDksVw&expires=1757161335",
+    "channelUrl": "https://d2.merichunidya.com:1686/hls/sky6nz.m3u8?md5=RwSXB__ZFLS-7cx7O2--iQ&expires=1757162416",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -205,7 +216,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d4.merichunidya.com:1686/hls/sky7nz.m3u8?md5=YZtGCuhTEWQqWSdxVbMqkA&expires=1757161335",
+    "channelUrl": "https://d10.merichunidya.com:1686/hls/sky7nz.m3u8?md5=EGrb4i4i4Tgc0LXmhj5urw&expires=1757162417",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -216,7 +227,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d4.merichunidya.com:1686/hls/sky8nz.m3u8?md5=IVNiyrBgwYMgKbMhqDjyQg&expires=1757161335",
+    "channelUrl": "https://d5.merichunidya.com:1686/hls/sky8nz.m3u8?md5=kj-9STEglfJH9QlcU1E93w&expires=1757162417",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -227,7 +238,18 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d5.merichunidya.com:1686/hls/sky9nz.m3u8?md5=jyFipDjOJy7lxv44TAt1bQ&expires=1757161335",
+    "channelUrl": "https://d5.merichunidya.com:1686/hls/sky9nz.m3u8?md5=4y3-Ofte8sg2ASy4qYlSog&expires=1757162417",
+    "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
+  },
+  {
+    "channelNumber": 3762,
+    "platform": "CricHD",
+    "linkType": "app",
+    "channelName": "Sky Cinema",
+    "subText": "Live Streaming Now",
+    "startTime": "",
+    "ownerInfo": "Stream provided by public source",
+    "channelUrl": "https://d7.merichunidya.com:1686/hls/skysme.m3u8?md5=exCEJPh9XWuJX8WYjbIkYw&expires=1757162417",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -238,7 +260,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d10.merichunidya.com:1686/hls/skysact.m3u8?md5=k6WGQXjK5YJxHKdQpgff4g&expires=1757161336",
+    "channelUrl": "https://d4.merichunidya.com:1686/hls/skysact.m3u8?md5=02SB86X04zynZVIGV5AWAw&expires=1757162417",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -249,7 +271,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d1.merichunidya.com:1686/hls/skysgol.m3u8?md5=X-ozIgl7ksTB6qcN0v39oA&expires=1757161336",
+    "channelUrl": "https://d3.merichunidya.com:1686/hls/skysgol.m3u8?md5=GJhxtR_h65jFk9ehWeApcA&expires=1757162417",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -260,7 +282,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d6.merichunidya.com:1686/hls/skysprem.m3u8?md5=VMcI_Xh1OKKNa7D0vOgU1Q&expires=1757161336",
+    "channelUrl": "https://d3.merichunidya.com:1686/hls/skysprem.m3u8?md5=V6cpRnS_cMWU0seYMeVkUA&expires=1757162418",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -271,7 +293,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d6.merichunidya.com:1686/hls/skysfott.m3u8?md5=1URMZ2pHSYHiwoJxmJVI8A&expires=1757161336",
+    "channelUrl": "https://d4.merichunidya.com:1686/hls/skysfott.m3u8?md5=vg_jHL9XAX3saTZL5Tcycg&expires=1757162418",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -282,7 +304,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d5.merichunidya.com:1686/hls/skysare.m3u8?md5=yOWlOjo1-2vzakY4dvVzsg&expires=1757161336",
+    "channelUrl": "https://d1.merichunidya.com:1686/hls/skysare.m3u8?md5=FbZIfmqU876rNYjwzAOVBQ&expires=1757162418",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -293,7 +315,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d8.merichunidya.com:1686/hls/skysfor1.m3u8?md5=vCbmSujAijwvqeZNHH7u-A&expires=1757161336",
+    "channelUrl": "https://d7.merichunidya.com:1686/hls/skysfor1.m3u8?md5=ufujn4V7Df3nHc35xVTxIw&expires=1757162418",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -304,7 +326,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d4.merichunidya.com:1686/hls/laligauk.m3u8?md5=sySNkuYDrxu4AIxdyGAjZA&expires=1757161337",
+    "channelUrl": "https://d2.merichunidya.com:1686/hls/laligauk.m3u8?md5=2weT4EEMxJ1T1LAilh-_AQ&expires=1757162418",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -315,7 +337,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d9.merichunidya.com:1686/hls/premieruk.m3u8?md5=3FVP6xwksgvhtiN_hrFDsg&expires=1757161337",
+    "channelUrl": "https://d9.merichunidya.com:1686/hls/premieruk.m3u8?md5=YMVHO6jMw_Ch3Vrq3-wUdg&expires=1757162418",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -326,7 +348,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d6.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=eZ4voeC_ic6JBWnruduOOw&expires=1757161337",
+    "channelUrl": "https://d4.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=5S7IOgPl7b0AoyaZVedvqw&expires=1757162419",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -337,7 +359,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d1.merichunidya.com:1686/hls/superfotball.m3u8?md5=gIginhDmtJZRoRRktJ1BPQ&expires=1757161337",
+    "channelUrl": "https://d2.merichunidya.com:1686/hls/superfotball.m3u8?md5=knpHhGWjaqXSZnnBcRJtfA&expires=1757162419",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -348,7 +370,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d8.merichunidya.com:1686/hls/superpremier.m3u8?md5=fI4__tHggKjtBe5_cBz7hg&expires=1757161337",
+    "channelUrl": "https://d3.merichunidya.com:1686/hls/superpremier.m3u8?md5=qgdITARft5-sgLLWklpeHw&expires=1757162419",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -359,7 +381,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d3.merichunidya.com:1686/hls/fox501.m3u8?md5=Y_QE2oVF2xkzttH2BdsQ5Q&expires=1757161337",
+    "channelUrl": "https://d3.merichunidya.com:1686/hls/fox501.m3u8?md5=CvVuxI7x5_lNfJTVZJDEZg&expires=1757162419",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -370,7 +392,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d7.merichunidya.com:1686/hls/espnusa.m3u8?md5=KzZ_ub23-Ixg8jmG_MAQbw&expires=1757161338",
+    "channelUrl": "https://d3.merichunidya.com:1686/hls/espnusa.m3u8?md5=lSzKghfWki_CBla2ML661A&expires=1757162419",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -381,7 +403,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d9.merichunidya.com:1686/hls/espn2.m3u8?md5=woyAcoqHmo1VbBElNVDKmg&expires=1757161338",
+    "channelUrl": "https://d3.merichunidya.com:1686/hls/espn2.m3u8?md5=2BQG-YcpPYEobkIHXXlVbQ&expires=1757162419",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -392,7 +414,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d3.merichunidya.com:1686/hls/skysare.m3u8?md5=uXmVhW-fmlvhsLlwVNW5DQ&expires=1757161338",
+    "channelUrl": "https://d1.merichunidya.com:1686/hls/skysare.m3u8?md5=b5-t9T9ngzsEnm4Hv_8Gxg&expires=1757162420",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -403,7 +425,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d5.merichunidya.com:1686/hls/skysmixx.m3u8?md5=2zxD8qbLRA6iFq5qOuUchA&expires=1757161338",
+    "channelUrl": "https://d9.merichunidya.com:1686/hls/skysmixx.m3u8?md5=QQcJr6RqfOmLpk4BTxARJA&expires=1757162420",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -414,7 +436,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d7.merichunidya.com:1686/hls/skystennis.m3u8?md5=-78_rGmnThGiqkVJOFKMrA&expires=1757161338",
+    "channelUrl": "https://d5.merichunidya.com:1686/hls/skystennis.m3u8?md5=Zt3lgsr5HdiHzZ3aD1NRSA&expires=1757162420",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -425,7 +447,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d7.merichunidya.com:1686/hls/fox501.m3u8?md5=UAoPWgu-2bq4OlamWOO7ig&expires=1757161338",
+    "channelUrl": "https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=X12eIKycEBHftQG37PQCMw&expires=1757162420",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -436,7 +458,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=U2Q9rgD2lsRzJAGO8xo9dQ&expires=1757161338",
+    "channelUrl": "https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=9cjVMxMkT59dJaloJ9Euaw&expires=1757162420",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   }
 ]
