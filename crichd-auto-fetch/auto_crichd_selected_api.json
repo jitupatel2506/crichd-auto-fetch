@@ -7,7 +7,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d10.merichunidya.com:1686/hls/willowextra.m3u8?md5=W3bwawJxs5_67J-Y7iBCFg&expires=1757265665",
+    "channelUrl": "https://d2.merichunidya.com:1686/hls/willowextra.m3u8?md5=nWsi-OMmorPCnvu5D2QTQA&expires=1757266746",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -18,7 +18,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d9.merichunidya.com:1686/hls/willowusa.m3u8?md5=nvQ9ZovpjgAyX8_LV24cgg&expires=1757265665",
+    "channelUrl": "https://d1.merichunidya.com:1686/hls/willowusa.m3u8?md5=_Egn7dfb5QTb24zy61tWog&expires=1757266746",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -29,7 +29,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d10.merichunidya.com:1686/hls/skyscric.m3u8?md5=Tx7PEMAozlC3eJHZT633yQ&expires=1757265666",
+    "channelUrl": "https://d4.merichunidya.com:1686/hls/skyscric.m3u8?md5=xLHBESf7EP2Lsl2CPSLDmQ&expires=1757266746",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   }
 ]
