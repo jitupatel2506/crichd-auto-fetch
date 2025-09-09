@@ -23,7 +23,7 @@ SELECTED_CHANNELS = [
 # ✅ Array 2: replacement names (same order as above)
 REPLACEMENT_NAMES = [
     "CPL 2025",
-    "AC 2025 (Worldwide)"
+    "AC 2025(Alternative)"
     #"SA_vs_ENG"
     #"SL Tour of ZIM 2025",
     #"SL Tour of ZIM 2025(Alternative)",
