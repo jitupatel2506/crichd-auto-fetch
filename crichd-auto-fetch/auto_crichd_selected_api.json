@@ -1,16 +1,5 @@
 [
   {
-    "channelNumber": 9921,
-    "platform": "CricHD",
-    "linkType": "app",
-    "channelName": "CPL 2025",
-    "subText": "Live Streaming Now",
-    "startTime": "",
-    "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d7.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=ElsDIyyBJxs8KXMyaPps8Q&expires=1757544162",
-    "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
-  },
-  {
     "channelNumber": 1389,
     "platform": "CricHD",
     "linkType": "app",
@@ -18,7 +7,7 @@
     "subText": "Live Streaming Now",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://d8.merichunidya.com:1686/hls/willowusa.m3u8?md5=QhDNK4FBjaj9iK1lRZc_dQ&expires=1757544161",
+    "channelUrl": "https://d9.merichunidya.com:1686/hls/willowusa.m3u8?md5=HDf8mZ8UWGcF_7RaLZfAAA&expires=1757544942",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   }
 ]
