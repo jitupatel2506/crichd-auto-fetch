@@ -10,11 +10,13 @@ OUTPUT_FILE = "crichd-auto-fetch/auto_crichd_selected_api.json"
 
 # ✅ Array 1: channelName to select from source
 SELECTED_CHANNELS = [
-    "TNT 1",
+    "Star Sports 1",
     "Willow HD",
+    "TNT 1"
+    
     #"Sky Sports Cricket"
     #"TNT 4"
-    "Star Sports 1"
+    
     #"Willow HD",
     #"LaLiGA"
     
@@ -22,10 +24,12 @@ SELECTED_CHANNELS = [
 
 # ✅ Array 2: replacement names (same order as above)
 REPLACEMENT_NAMES = [
-    "CPL 2025",
-    "AC 2025(Alternative)",
+    "AUSW vs INDW 2025",
+    "AC 2025(HD)",
+    "CPL 2025"
+   
     #"SA_vs_ENG"
-    "AUSW vs INDW 2025"
+   
     #"SL Tour of ZIM 2025(Alternative)",
     #"100 FINAL",
     #"La - LiGA 2025-26"
