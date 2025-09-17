@@ -27,7 +27,7 @@ THUMBNAIL_URL = os.getenv(
 PLATFORM = "CricHD"
 LINK_TYPE = "app"
 OWNER_INFO = "Stream provided by public source"
-SUBTEXT = "Live Streaming Now"  # If you want dynamic text, change this.
+SUBTEXT = "Live tv guide"  # If you want dynamic text, change this.
 
 # Whether channelNumber should be stable (derived from source id/name) or truly random
 STABLE_CHANNEL_NUMBERS = True  # set to False for new random numbers on each run
