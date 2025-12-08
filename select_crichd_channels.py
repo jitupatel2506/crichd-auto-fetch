@@ -24,8 +24,8 @@ SELECTED_CHANNELS = [
 
 # ✅ Array 2: replacement names (same order as above)
 REPLACEMENT_NAMES = [
-    "Server 1",
-    "Server 2"
+    "Server 13",
+    "Server 14"
    # "CPL 2025"
    
     #"SA_vs_ENG"
