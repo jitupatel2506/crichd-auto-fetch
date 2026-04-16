@@ -1,5 +1,16 @@
 [
   {
+    "channelNumber": 5535,
+    "platform": "CricHD",
+    "linkType": "app",
+    "channelName": "Star Sports 1",
+    "subText": "Live tv guide",
+    "startTime": "",
+    "ownerInfo": "Stream provided by public source",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/star1in.m3u8?md5=lpv5U9wL8dTlXYzMa87zqA&expires=1776367153",
+    "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
+  },
+  {
     "channelNumber": 9059,
     "platform": "CricHD",
     "linkType": "app",
@@ -7,7 +18,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/starhindi.m3u8?md5=b-Bvc-937HapohUZIrJzxw&expires=1776362720",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/starhindi.m3u8?md5=F8sVBkxxLRn7nemVaCfr7w&expires=1776367153",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -18,7 +29,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=-1wIhAyWqeN0o8JPyQ94uA&expires=1776362720",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=kW9Hc-qXL-T4kDUNnD5B2g&expires=1776367154",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -29,7 +40,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/willowusa.m3u8?md5=hS7rYThxYWudW7gGR0cEjA&expires=1776362720",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/willowusa.m3u8?md5=cM3jpYYB6D0ImCaEHKxb5g&expires=1776367154",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -40,7 +51,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/willowextra.m3u8?md5=llhS74rC1JoNb6mqJSbSDw&expires=1776362721",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/willowextra.m3u8?md5=BJIRodzNBzH8gLLvJuYmQg&expires=1776367154",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -51,7 +62,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/tenspk.m3u8?md5=qA7Pjj5YcoKmGLMmffXoTw&expires=1776362721",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/tenspk.m3u8?md5=hNEaz37Um6zqPPGQcsmwMA&expires=1776367154",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -62,7 +73,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/asportshd.m3u8?md5=3q1kL7RTFPhOTQonFGY7Mw&expires=1776362721",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/asportshd.m3u8?md5=7OR_9z17hBQOESsGCDxUBA&expires=1776367154",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -73,7 +84,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skyscric.m3u8?md5=ft1rBMU3Mq25xCX5KknxZQ&expires=1776362721",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skyscric.m3u8?md5=1wRS5r3KwCKIz1UwtKkYEw&expires=1776367155",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -84,7 +95,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysme.m3u8?md5=NTpfkJ-ayynIvUAmZW5vJg&expires=1776362721",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysme.m3u8?md5=__MszI0LVkFU_4mm-W9lNw&expires=1776367155",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -95,7 +106,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=Ra0FY8QZPtbEPIaZHDs-uQ&expires=1776362721",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=l8K5AUm-o_jKwZYcRHHhkw&expires=1776367155",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -106,7 +117,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=uXvm9ERbXn4keuRvu1ZJ_w&expires=1776362721",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=IEE_qf162HSqV8hBwf1wtw&expires=1776367155",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -117,7 +128,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=KCF-ZfGMT8utOlmapSQM1w&expires=1776362722",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=60yug-iRFGZHnNU3MhtfIg&expires=1776367156",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -128,7 +139,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=SHEu4YSvy07zleANAb1mjw&expires=1776362722",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=2JKfRgQY--sPQGVMvtZJeA&expires=1776367156",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -139,7 +150,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=vxtHIlwdBi5cBqUdT-H1Xw&expires=1776362722",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=yKDCxMH8-RqrDI7ysjDQ1A&expires=1776367156",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -150,7 +161,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=Q87GadTjLmzzEorC92S-4Q&expires=1776362722",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=8VpNHJWstjknMYivjUJU0Q&expires=1776367156",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -161,7 +172,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=c6yJQ273ST_Dro91lzFAPw&expires=1776362722",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=KaF-upnUMYanke0beK5-eQ&expires=1776367156",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -172,7 +183,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=-E9JUH5YW9Tp_Dy-ZZOpbA&expires=1776362722",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=RE2kJbVvLPIxqDT0ZPAyjA&expires=1776367156",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -183,7 +194,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=HNYQogOlPf7Pcsu44j_2wA&expires=1776362722",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=2Tu97r0KHtSA4ep84rmi5w&expires=1776367157",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -194,7 +205,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=xHw6YFOcaBD5pzTKFmzNjQ&expires=1776362722",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=sD_qqnpxpGXEuNTYii86Sg&expires=1776367157",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -205,7 +216,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=OPs7G27tql4jrwOZ3DDPXQ&expires=1776362723",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=GWnfz2p-XP3pE_MxJaE0pw&expires=1776367157",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -216,7 +227,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=FSSofQLXP3bE3BwH2e67fA&expires=1776362723",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=pk00foVHqJEqxJ_4J7tP5g&expires=1776367157",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -227,7 +238,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=uUjG-xtm-b0-4I7TIcHY4A&expires=1776362723",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=-JNyos7QV1kUuyeQPhWhiA&expires=1776367157",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -238,7 +249,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysme.m3u8?md5=ZkU6RYO6-MNbbo13Cu6bXg&expires=1776362723",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysme.m3u8?md5=d5QBn-0KLZFg-TBGF2Yc2g&expires=1776367157",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -249,7 +260,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysact.m3u8?md5=LaT0-ml1TZJC1hpaOvEOmA&expires=1776362723",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysact.m3u8?md5=_tOFQm4-KWmqny5pP5CH0Q&expires=1776367158",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -260,7 +271,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysgol.m3u8?md5=Ez5AQGQ0m5vJL4PU2ak5Ug&expires=1776362723",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysgol.m3u8?md5=nwEGqzcBr8_PI7ulhHro_w&expires=1776367158",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -271,7 +282,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysprem.m3u8?md5=2FAXgx9iR-26h27iW_Pd1A&expires=1776362723",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysprem.m3u8?md5=8JfNATXBSsyuWVcdSnR8mQ&expires=1776367158",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -282,7 +293,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysfott.m3u8?md5=9-qqIbl4C-KYOR7GeDUl7g&expires=1776362723",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysfott.m3u8?md5=67MKhVuSOsEOQULrMT90Vw&expires=1776367158",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -293,7 +304,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysare.m3u8?md5=z7a4P77p0XV4ALSHJZURYQ&expires=1776362724",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysare.m3u8?md5=nowcm2d0VJQ9ut2WbRKjiQ&expires=1776367158",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -304,7 +315,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=BX0_UcUnF4QiGltzIK0x2Q&expires=1776362724",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=N0TEdW3Ul98RHatZpY2wPQ&expires=1776367158",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -315,7 +326,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/laligauk.m3u8?md5=7ueyAXFzmKQYDQ03bC4uZQ&expires=1776362724",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/laligauk.m3u8?md5=XahEJ-stKbVSezEDxeNuWQ&expires=1776367158",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -326,7 +337,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/premieruk.m3u8?md5=64yIMaclzEfBS2GV1y5K6Q&expires=1776362724",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/premieruk.m3u8?md5=DLaSPKhFQVUf428kc_0RPw&expires=1776367158",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -337,7 +348,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=fbQzAFbxBputYK_V97_YLw&expires=1776362724",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=cBfdd6gW00eAoGnipuilEg&expires=1776367158",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -348,7 +359,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/superfotball.m3u8?md5=8EqC7xJgS6551TftaCCTTw&expires=1776362724",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/superfotball.m3u8?md5=N0uIKuA2cDwjxnIi3EdvDg&expires=1776367159",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -359,7 +370,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/superpremier.m3u8?md5=4GCBbCaGoXtSpFb4EQXUKg&expires=1776362724",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/superpremier.m3u8?md5=rLX5AU1rNRuchcoYiswv2w&expires=1776367159",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -370,7 +381,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/fox501.m3u8?md5=Nxp8ADDEBxv51PS48H-6vQ&expires=1776362725",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/fox501.m3u8?md5=TcCuRmAjplHMiDUso7US5g&expires=1776367159",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -381,7 +392,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/espnusa.m3u8?md5=8o6uYxonF7060TUQUnYZEA&expires=1776362725",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/espnusa.m3u8?md5=ycHhFukmprIM--8AFySOLQ&expires=1776367159",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -392,7 +403,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/espn2.m3u8?md5=mAa37iPaiZYftAWpmBDl9g&expires=1776362725",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/espn2.m3u8?md5=JM33OZjL1N35epUszhHtoQ&expires=1776367159",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -403,7 +414,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysare.m3u8?md5=YUNr5Z-8UZ6wd6SRMFIXvw&expires=1776362725",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysare.m3u8?md5=I5mKAYcf7BBLTTsi3P1Hdw&expires=1776367159",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -414,7 +425,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=M2hDFfE1VvNfmBnOFw64cA&expires=1776362725",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=XRACNFTZUapU0hfZtiBksQ&expires=1776367159",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -425,7 +436,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skystennis.m3u8?md5=bqkIik0Questtk0qaUNuOw&expires=1776362725",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/skystennis.m3u8?md5=wXty9amjMkHn0LNuVfmxUw&expires=1776367159",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -436,7 +447,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/fox501.m3u8?md5=Nxp8ADDEBxv51PS48H-6vQ&expires=1776362725",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/fox501.m3u8?md5=TcCuRmAjplHMiDUso7US5g&expires=1776367159",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -447,7 +458,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://n100.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=-fta9JluMZoCa1vEtJmsvA&expires=1776362725",
+    "channelUrl": "https://n100.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=1dFRABzMSKfsLGwLFH_igQ&expires=1776367160",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   }
 ]
