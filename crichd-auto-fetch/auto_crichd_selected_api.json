@@ -7,7 +7,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://cdn6.zohanayaan.com:1686/hls/star1in.m3u8?md5=qyXZRyaqxEOcO_UHA6ISUQ&expires=1785068419",
+    "channelUrl": "https://cdn10.zohanayaan.com:1686/hls/star1in.m3u8?md5=N1nCXJ7F3ay3rQeDWUjbjw&expires=1785072015",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   },
   {
@@ -18,7 +18,7 @@
     "subText": "Live tv guide",
     "startTime": "",
     "ownerInfo": "Stream provided by public source",
-    "channelUrl": "https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=0CVYdRxTMEyM4mgnN-Z4Eg&expires=1785068419",
+    "channelUrl": "https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=jFUQQ3msTDnnY4pdgqoqgQ&expires=1785072015",
     "thumbnail": "https://gitlab.com/ranginfotech89/ipl_data_api/-/raw/main/stream_categories/cricket_league_vectors/all_live_streaming_inonly.png"
   }
 ]
